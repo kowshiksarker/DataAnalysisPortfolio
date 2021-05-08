@@ -1,4 +1,4 @@
-# DataAnalysisPortfolio
+# Data Analysis Portfolio Project Using Covid-19 Data 
 
 Following the exploratory data analysis alongwith AlexTheAnalyst using worldwide Covid-19 data for death rate and vaccination rate since Jan 2020.
 This repository will hold all the related coding files,dataset used and the analysis findings further.
