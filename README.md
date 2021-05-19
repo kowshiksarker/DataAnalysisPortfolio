@@ -11,9 +11,12 @@ Data Source ->  https://ourworldindata.org/covid-deaths
 Inspired By ->  https://github.com/AlexTheAnalyst/PortfolioProjects
 
 Step By Step Guide Video Part 1/4 -> https://www.youtube.com/watch?v=qfyynHBFOsM
+Step By Step Guide Video Part 2/4 -> https://www.youtube.com/watch?v=QILNlRvJlfQ&t=912s
 
 SSMS Setup Guide -> https://www.youtube.com/watch?v=RSlqWnP-Dy8
 
 SQL Server Management Studio Download Link -> https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
 
 SQL Server Download Link -> https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+Download Tableau -> https://public.tableau.com/en-us/s/download
