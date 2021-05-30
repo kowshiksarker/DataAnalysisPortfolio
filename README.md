@@ -12,6 +12,8 @@ Inspired By ->  https://github.com/AlexTheAnalyst/PortfolioProjects
 
 Step By Step Guide Video Part 1/4 -> https://www.youtube.com/watch?v=qfyynHBFOsM
 Step By Step Guide Video Part 2/4 -> https://www.youtube.com/watch?v=QILNlRvJlfQ&t=912s
+Step By Step Guide Video Part 3/4 -> https://www.youtube.com/watch?v=8rO7ztF4NtU
+
 
 SSMS Setup Guide -> https://www.youtube.com/watch?v=RSlqWnP-Dy8
 
